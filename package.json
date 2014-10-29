@@ -1,0 +1,9 @@
+{
+  "name": "kreditechfacebook",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ftp": "*",
+    "fb": "*"
+  }
+}
